@@ -6,6 +6,6 @@ A real-time chat application with Node.js, Prisma, GraphQL, React.js and Apollo.
 
 ## Features
 
-- With authentication and authorization
+- Authentication and authorization
 - one to one real time chat
 - Neat and Clean UI
